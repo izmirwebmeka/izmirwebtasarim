@@ -6,7 +6,8 @@
 
 **Mekait**, İzmir merkezli bir web tasarım ajansıdır ve internet üzerinde etkili varlıklar oluşturma konusunda uzmanlaşmıştır. Web tasarımı, SEO (arama motoru optimizasyonu), dijital pazarlama, yazılım geliştirme ve kullanıcı deneyimi (UX/UI) gibi çeşitli hizmetleri bir arada sunarak müşterilerine kapsamlı bir dijital çözüm sunmaktadır. Mekait'in sunduğu hizmetler, işletmelerin çevrimiçi dünyada daha güçlü bir yer edinmesini ve daha geniş kitlelere ulaşmasını sağlar.
 https://mekait.com/izmir-web-tasarim/
-[https://mekait.com/izmir-web-tasarim/](izmir web tasarım)
+
+<a href="https://mekait.com/izmir-web-tasarim/">izmir web tasarım</a>
 
 ### İzmir'deki Web Tasarım İhtiyaçları
 
